@@ -1,0 +1,5 @@
+<application>
+  <component name="ExternalResourceManagerImpl">
+    <resource url="https://jeremylong.github.io/DependencyCheck/dependency-suppression.1.3.xsd" location="$USER_HOME$/.cache/JetBrains/IntelliJIdea2020.1/extResources/b5efed6d_dependency-suppression.1.3.xsd" />
+  </component>
+</application>
