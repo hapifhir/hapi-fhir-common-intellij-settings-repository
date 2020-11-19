@@ -1,4 +1,7 @@
 <application>
+  <component name="CodeInsightSettings">
+    <EXCLUDED_PACKAGE NAME="" />
+  </component>
   <component name="DefaultFont">
     <option name="FONT_SIZE" value="15" />
   </component>
