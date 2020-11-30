@@ -21,5 +21,9 @@
       <option name="ERROR_STRIPE_COLOR" value="977ab" />
     </pattern>
     <pattern pattern="\bGGG\b" />
+    <pattern pattern="\bTODO GGG HS\b" />
+    <filter name="Hibernate Search">
+      <pattern index="4" />
+    </filter>
   </component>
 </application>
