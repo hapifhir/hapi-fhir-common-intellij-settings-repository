@@ -1,10 +1,14 @@
 <application>
   <component name="CodeInsightSettings">
+    <option name="HIGHLIGHT_SCOPE" value="true" />
     <EXCLUDED_PACKAGE NAME="" />
   </component>
   <component name="DefaultFont">
     <option name="FONT_SIZE" value="15" />
-    <option name="FONT_FAMILY" value="Fira Code Medium" />
+    <option name="FONT_FAMILY" value="Fira Code" />
+    <option name="FONT_REGULAR_SUB_FAMILY" value="Medium" />
+    <option name="FONT_BOLD_SUB_FAMILY" value="Medium" />
+    <option name="USE_LIGATURES" value="true" />
   </component>
   <component name="EditorSettings">
     <option name="USE_SOFT_WRAPS" value="MAIN_EDITOR:CONSOLE" />
